@@ -18,7 +18,11 @@ Most free PDF sites ask you to upload the file first, which is a poor trade for 
 
 Password-protected files can be dropped into any tool. Quire asks for the password once, then works on the decrypted copy in memory.
 
-## Run it
+## Download
+
+**[Download quire.html](https://github.com/85ip9gh/quire/releases/latest/download/quire.html)** from the latest release. It is the single file `npm run build` produces, about 2.3 MB, with nothing to install. Open it in a browser. Opening it straight from disk has so far been checked only in headless Chrome.
+
+## Build it yourself
 
 Requires Node 22 or newer.
 
